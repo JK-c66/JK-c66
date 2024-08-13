@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs....<br>📚 learning.....<br>🎯 No goals<br>🎲 Nothing fun</p>
+<p align="left">✨ Creating bugs....<br>📚 learning.....<br>🎯 No goals</p>
 
 ###
 
